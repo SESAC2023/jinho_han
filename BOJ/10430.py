@@ -1,9 +1,4 @@
-data = input().split()
-data = list(map(int, data))
-
-a = data[0]
-b = data[1]
-c = data[2]
+a, b, c = map(int, input().split())
 
 print((a+b)%c)
 print(((a%c)+(b%c))%c)
