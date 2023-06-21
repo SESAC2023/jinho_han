@@ -1,5 +1,4 @@
 data = input()
-data = [i for i in data]
 
 temp = []
 for j in data:
