@@ -66,6 +66,5 @@
 zfill()
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinho2070)](https://solved.ac/jinho2070/)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=jinho2070)](https://solved.ac/jinho2070)
