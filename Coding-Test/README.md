@@ -16,7 +16,7 @@
  
 #### 3) sys.stdin.readline()
 - 입력: 7 6 5
-       9 8 1       
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9 8 1       
 
 </br>
 
