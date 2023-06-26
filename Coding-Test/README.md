@@ -1,10 +1,12 @@
 # 기본 템플릿
 ```
+# 기본으로 적고 시작
 import sys
 sys.setrecursionlimit(int(1e6))   # 재귀 깊이 한도 해제
 input = sys.stdin.readline
 N, M = map(int, input().rstrip().split())
 
+# BFS 문제 시
 from collections import deque
 q = deque()
 ```
