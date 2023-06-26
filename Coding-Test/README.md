@@ -15,7 +15,7 @@
   - 리스트의 개별 원소에 각각 함수를 적용하기 위해 map()함수를 사용한다.
  
 #### 3) sys.stdin.readline()
-- 입력: 7 6 5
+- 입력: 7 6 5 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9 8 1       
 
 </br>
