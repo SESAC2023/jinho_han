@@ -1,4 +1,11 @@
 # 기본 템플릿
+```
+import sys
+sys.setrecursionlimit(int(1e6))   # 재귀 깊이 한도 해제
+input = sys.stdin.readline
+
+from collections import deque
+```
 
 </br>
 
