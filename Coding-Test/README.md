@@ -6,9 +6,13 @@
 - 입력: 7
 - data = input()
 
-#### 2) split() + map() 함수
+#### 2) split() + map() 함수
 - 입력: 7 6
-- N, M = map(int, input().split())  # input()으로 한 줄의 입력을 받아와서, 공백(default)을 기준으로 분리한다. 이때 split()을 하면 리스트가 생성된다.
+- N, M = map(int, input().split())
+- 설명
+  - input()으로 한 줄의 입력을 받아와서, 공백(default)을 기준으로 분리한다.
+  - 이때 split()을 하면 리스트가 생성된다.
+  - 리스트의 개별 원소에 각각 함수를 적용하기 위해 map()함수를 사용한다.
 
 </br>
 
