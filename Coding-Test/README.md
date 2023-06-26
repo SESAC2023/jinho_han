@@ -30,7 +30,11 @@
     ```
 - 코드 설명
   - ```sys.stdin.readline```은 input()보다 입력을 빠르게 받는다. 그러므로 앞으로 계속 사용할 것.
-  - <span style="color:red"> 여러 줄을 입력 받을때 </span> for문을 통해 입력을 받는다. 즉 ```sys.stdin.readline```를 여러 번 사용하는 것이다.
+  - **'여러 줄을 입력 받을 때'** for문을 통해 입력을 받는다. 즉 ```sys.stdin.readline```를 여러 번 사용하는 것이다.
+  - ```sys.stdin.readline()```은 "줄 바꿈" 혹은 "공백"도 입력으로 받기 때문에, strip()을 공백을 제거해준다.
+    - strip(): 양쪽 공백 제거
+    - rstrip(): 오른쪽 공백 제거
+    - lstrip(): 왼쪽 공백 제거
 
 </br>
 
