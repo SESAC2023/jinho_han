@@ -1,3 +1,7 @@
+<div align=center>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinho2070)](https://solved.ac/jinho2070/)
+</div>
+
 # 코딩테스트 TIP  
 
 
@@ -65,10 +69,3 @@
 ### 기타
 zfill()
 
-
-
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=jinho2070)](https://solved.ac/jinho2070)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinho2070)](https://solved.ac/jinho2070/)
-
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jinho2070)](https://solved.ac/jinho2070)
