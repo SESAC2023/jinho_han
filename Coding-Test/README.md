@@ -16,15 +16,17 @@
   - 이때 split()을 하면 리스트가 생성된다.
   - 리스트의 개별 원소에 각각 함수를 적용하기 위해 map()함수를 사용한다.
  
-#### 3) sys.stdin.readline()
+#### 3) sys.stdin.readline().strip()
 - 입력: 2 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7 6 5 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9 8 1
 - 코드
   - ```import sys
-  sdaf
-  - ```
-  -   
+       input = sys.stdin.readline
+       N = int(input())
+       for _ in range(N):
+           a, b, c = map(int, input().rstrip().split())
+    ```
 
 </br>
 
