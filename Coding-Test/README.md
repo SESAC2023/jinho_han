@@ -21,7 +21,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7 6 5 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9 8 1
 - 코드
-  -
     ```
     import sys
        input = sys.stdin.readline
