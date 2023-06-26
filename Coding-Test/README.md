@@ -3,8 +3,10 @@
 import sys
 sys.setrecursionlimit(int(1e6))   # 재귀 깊이 한도 해제
 input = sys.stdin.readline
+N, M = map(int, input().rstrip().split())
 
 from collections import deque
+q = deque()
 ```
 
 </br>
@@ -81,4 +83,5 @@ from collections import deque
 
 ### 9.기타
 zfill()
+List Comprehension
 
