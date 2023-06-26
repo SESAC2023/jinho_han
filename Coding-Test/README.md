@@ -65,4 +65,5 @@
 ### 기타
 zfill()
 
-<span style="color:red"> 여러 줄을 입력 받을때 </span> 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
