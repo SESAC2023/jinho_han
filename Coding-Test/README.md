@@ -16,3 +16,6 @@
 ### 7.DFS(Depth First Search)
 
 ### 8.BFS(Breadth First Search)
+
+### 기타
+zfill()
