@@ -22,7 +22,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9 8 1
 - 코드
   -
-    ```import sys
+    ```
+    import sys
        input = sys.stdin.readline
        N = int(input())
        for _ in range(N):
