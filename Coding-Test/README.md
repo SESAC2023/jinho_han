@@ -30,7 +30,8 @@
     ```
 - 코드 설명
   - ```sys.stdin.readline```은 input()보다 입력을 빠르게 받는다. 그러므로 앞으로 계속 사용할 것.
-  - <span style="color:green">여러 줄을 입력 받을때</span> for문을 통해 입력을 받는다. 즉 ```sys.stdin.readline```를 여러 번 사용하는 것이다.
+  - <span style="color:green">
+  여러 줄을 입력 받을때 </span> for문을 통해 입력을 받는다. 즉 ```sys.stdin.readline```를 여러 번 사용하는 것이다.
 
 </br>
 
@@ -64,6 +65,3 @@
 
 ### 기타
 zfill()
-
-
-글자색은 <span style="color:red">span HTML태그를 이용</span>하면 됩니다.
