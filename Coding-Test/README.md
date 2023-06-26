@@ -11,8 +11,8 @@
 
 ### 5.Stack
 
-### 6.deque
+### 6.Deque
 
-### 7.DFS
+### 7.DFS(Depth First Search)
 
-### 8.BFS
+### 8.BFS(Breadth First Search)
