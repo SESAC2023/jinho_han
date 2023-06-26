@@ -65,5 +65,4 @@
 ### 기타
 zfill()
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={jinho2070})](https://solved.ac/{jinho2070})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinho2070)](https://solved.ac/jinho2070/)
