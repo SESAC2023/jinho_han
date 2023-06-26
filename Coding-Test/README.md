@@ -64,3 +64,6 @@
 
 ### 기타
 zfill()
+
+
+글자색은 <span style="color:red">span HTML태그를 이용</span>하면 됩니다.
