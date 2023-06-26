@@ -5,7 +5,7 @@
 #### 1) input() 함수
 - 입력: 7
 - 코드
-  - data = input()
+  - ```data = input()```
 
 #### 2) split() + map() 함수
 - 입력: 7 6
@@ -21,7 +21,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7 6 5 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9 8 1
 - 코드
-  - import sys
+  - ```import sys
+  sdaf
+  - ```
   -   
 
 </br>
