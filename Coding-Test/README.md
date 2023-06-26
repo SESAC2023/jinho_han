@@ -22,11 +22,15 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9 8 1
 - 코드
   - ```import sys
+    
        input = sys.stdin.readline
        N = int(input())
        for _ in range(N):
            a, b, c = map(int, input().rstrip().split())
     ```
+- 코드 설명
+  - ```sys.stdin.readline```은 input()보다 입력을 빠르게 받는다. 그러므로 앞으로 계속 사용할 것.
+  - **여러 줄을 입력 받을때** for문을 통해 입력을 받는다. 즉 ```sys.stdin.readline```를 여러 번 사용하는 것이다.
 
 </br>
 
